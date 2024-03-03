@@ -1,22 +1,22 @@
 export const themes = {
   default: {
-    title_color: "2f80ed",
-    icon_color: "4c71f2",
-    text_color: "434d58",
-    bg_color: "fffefe",
-    border_color: "e4e2e2",
+    title_color: "#F2C9D4",
+    icon_color: "#F2C9D4",
+    text_color: "#F2C9D4",
+    bg_color: "#F2F2F2",
+    border_color: "#D19DAA",
   },
   default_repocard: {
-    title_color: "2f80ed",
-    icon_color: "586069", // icon color is different
-    text_color: "434d58",
-    bg_color: "fffefe",
+    title_color: "F2C9D4",
+    icon_color: "F2C9D4", // icon color is different
+    text_color: "F2C9D4",
+    bg_color: "F2F2F2",
   },
   transparent: {
-    title_color: "006AFF",
-    icon_color: "0579C3",
-    text_color: "417E87",
-    bg_color: "ffffff00",
+    title_color: "F2C9D4",
+    icon_color: "F2C9D4",
+    text_color: "F2C9D4",
+    bg_color: "F2F2F2",
   },
   shadow_red: {
     title_color: "9A0000",
